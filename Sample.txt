@@ -1,0 +1,1 @@
+Hello This is Sample text file to understand how git works. 
