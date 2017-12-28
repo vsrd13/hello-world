@@ -1,1 +1,5 @@
 Hello This is Sample text file to understand how git works. 
+
+Modifying this text file inorder to comit the changes to the git hub.
+
+And also adding another file to this repository.
